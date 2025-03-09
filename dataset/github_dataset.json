@@ -1,5 +1,5 @@
 {
-	"name": "DelimitedText1",
+	"name": "github_dataset",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureBlobStorage1",
