@@ -1,0 +1,10 @@
+{
+	"global_param": {
+		"type": "string",
+		"value": "STRINGGG"
+	},
+	"container_name": {
+		"type": "string",
+		"value": "input"
+	}
+}
